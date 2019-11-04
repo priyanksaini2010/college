@@ -1,0 +1,43 @@
+   URL:			http://www.dpost.be/        
+        Team Size:  		4
+        Duration: 		March 2013 – December 2013
+        Environment: 	PHP, ZEND, Mysql
+1	http://ncct.ac.in/
+2	http://ncct.ac.in/ncctintranet/
+3	http://mgmlibrary.com
+4	http://andamanexcursion.com
+5	http://srcsolutions.in
+6	https://www.mondaymorning.in/
+7	http://tiss.co.in
+8	pbit.co.in
+9	chenitv.com
+10	clickarch.com
+11	Karacus.com
+12	http://fashiondealstyle.com/
+13	http://andamanexcursion.com/
+14	http://www.buccobespoke.com/
+15	http://kingsmen-me.com  
+16	http://thebridalcompany.com.au/
+17	http://zapoo.in
+18	www.tlsgroup.co.in
+19	www.blr.stpi.in
+20	http://www.flashbackband.com.au/
+21	Virasat-e-khalsa.net
+22	http://bdfriendsblog.com/
+23	http://shihoron.com/
+24	http://www.kautilyaacademy.com/
+25	http://www.johntechie.com/
+26	www.tahl.co.uk/
+27	http://tdsl-fm.com/
+28	www.harshhotel.com./
+29	www.1st4storage.co.uk
+30	http://1000-spices.co.uk
+31	http://www.quitsmokingwollongong.com/
+32	http://css4me.com
+33	http://www.freightanywhere.com/
+34	http://www.webstarsolution.com
+35	http://www.mkitechnology.com
+36	http://www.johntechie.com
+37	http://www.convertpsd4me.com
+38	Ejserver.com/wpress
+
